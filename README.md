@@ -20,6 +20,13 @@ This project introduces a **Nutritional Efficiency Framework** using **data scie
 The goal is to empower users with actionable insights into their food choices — not just how many calories they consume, but **how much nutritional value those calories deliver**.
 
 ---
+### Interface
+
+![Screenshot 2025-05-09 214014](https://github.com/user-attachments/assets/6f338acb-777d-4277-b08d-6bf57ec0b4e1)
+
+![Screenshot 2025-05-09 214315](https://github.com/user-attachments/assets/51eb7cd5-8a16-4d6f-bae9-65ffad7ccb76)
+
+![Screenshot 2025-05-09 214742](https://github.com/user-attachments/assets/143381c9-a29c-454f-85d1-bb618704b85e)
 
 ## 🔍 Key Features
 
