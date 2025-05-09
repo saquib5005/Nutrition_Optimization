@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97a8b55a-710c-449e-88bc-4f4587e6ab0e" name="Changes" comment="Commit Done" />
+    <list default="true" id="97a8b55a-710c-449e-88bc-4f4587e6ab0e" name="Changes" comment="Commit Done">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +22,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/saquib5005/Nutrition_Optimization.git",
+    "accountId": "4d4c5f82-81be-4c73-a9c6-1ab44d75f70b"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -62,7 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1746762836677</updated>
       <workItem from="1746762837787" duration="1452000" />
-      <workItem from="1746764331941" duration="16876000" />
+      <workItem from="1746764331941" duration="17747000" />
     </task>
     <task id="LOCAL-00001" summary="Commit Done">
       <option name="closed" value="true" />
@@ -72,7 +80,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746796220691</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Commit Done">
+      <option name="closed" value="true" />
+      <created>1746796439511</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1746796439511</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

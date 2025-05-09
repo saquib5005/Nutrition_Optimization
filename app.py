@@ -22,8 +22,7 @@ pd.set_option('display.max_columns', None)
 pd.set_option('display.max_rows', 20)
 
 # --- Load dataset ---
-df = pd.read_csv('cleaned_nutrition_dataset_per100g.csv')
-df.columns = df.columns.str.replace(r'\(.*\)', '', regex=True).str.strip()
+df = pd.read_csv('cleaned_nutrition_dataset.csv')
 
 print("# Nutritional Efficiency Framework: A Data-Driven Approach to Food Analysis")
 print(f"\nDataset contains {df.shape[0]} food items with {df.shape[1]} nutritional variables")
