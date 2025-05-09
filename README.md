@@ -97,7 +97,7 @@ nutrition-optimizer/
 ---
 
 ### 📜 License
-This project is licensed under the MIT License. See LICENSE for more details.
+This project is licensed under the MIT License. See [Licence](LICENSE) for more details.
 
 ---
 
